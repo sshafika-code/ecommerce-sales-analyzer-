@@ -1,5 +1,3 @@
-# ecommerce-sales-analyzer-
-Pandas project analyzing e-commerce sales by category
 # E-Commerce Sales Data Analyzer
 
 A small Python + Pandas project that turns raw sales data into answers:
@@ -53,4 +51,3 @@ listing products was the difference between a table and an actual insight.
 
 ---
 Built by [Shafika S](https://www.linkedin.com/in/shafika-sdatascientist) — 2nd year BSc Computer Science student, learning data science one project at a time.
-
