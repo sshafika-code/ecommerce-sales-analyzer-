@@ -35,6 +35,9 @@ easy to miss just by scanning the raw table.
 
 - Python
 - Pandas
+- numpy
+- matplotlib
+- excel
 
 ## What I Learned
 
