@@ -60,8 +60,5 @@ Accessories    182500
 Electronics    960000
 Name: Total_Revenue, dtype: int64
 
-
-
-
 ---
-Built by [Shafika S](https://www.linkedin.com/in/shafika-sdatascientist) — 2nd year BSc Computer Science student, learning data science one project at a time.
+Built by Shafika S — 2nd year BSc Computer Science student, learning data science one projct at a time.
