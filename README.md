@@ -47,18 +47,28 @@ Running the pipeline transforms raw numbers into immediate, actionable takeaways
 ### Console Analytics Snapshot
 ```text
 --- E-Commerce Sales Table ---
-   Product_ID Product_Name     Category  Price_INR  Quantity_Sold  Total_Revenue
-0         101       Laptop  Electronics      60000              5         300000
-1         102   Smartphone  Electronics      45000             12         540000
-2         103   Headphones  Accessories       3000             40         120000
-3         104      Monitor  Electronics      15000              8         120000
-4         105     Keyboard  Accessories       2500             25          62500
 
---- Total Revenue by Category ---
-Category
-Accessories    182500
-Electronics    960000
-Name: Total_Revenue, dtype: int64
+Rows: 120  |  Products: 20
+
+--- By Category ---
+              Revenue  Total_Cost   Profit
+Category                                 
+Accessories  1904100      987800   916300
+Clothing     1272400      798300   474100
+Electronics  8067800     6547700  1520100
+
+--- Monthly ---
+        Revenue  Profit
+Month                 
+Jan    1890150  497880
+Feb    1805650  472290
+Mar    1911600  494060
+Apr    1860150  473380
+May    1763450  464100
+Jun    2013300  508790
+
+Most profitable: Smartphone 490000
+Biggest loss: Dress -24600
 
 ---
 Built by Shafika S — 2nd year BSc Computer Science student, learning data science one projct at a time.
